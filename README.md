@@ -10,4 +10,6 @@ https://github.com/aymericdamien/TensorFlow-Examples
 https://github.com/nlintz/TensorFlow-Tutorials
 https://github.com/pkmital/tensorflow_tutorials
 
+https://github.com/napsternxg/Udacity-Deep-Learning/tree/master/udacity
+
 ~~~
