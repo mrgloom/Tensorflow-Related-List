@@ -12,4 +12,6 @@ https://github.com/pkmital/tensorflow_tutorials
 
 https://github.com/napsternxg/Udacity-Deep-Learning/tree/master/udacity
 
+https://github.com/sjchoi86/Tensorflow-101
+
 ~~~
