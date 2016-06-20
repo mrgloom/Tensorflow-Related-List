@@ -14,4 +14,5 @@ https://github.com/napsternxg/Udacity-Deep-Learning/tree/master/udacity
 
 https://github.com/sjchoi86/Tensorflow-101
 
+https://github.com/wookayin/TensorflowKR-2016-talk-debugging
 ~~~
