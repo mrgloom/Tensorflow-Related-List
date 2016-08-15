@@ -11,6 +11,7 @@ https://github.com/sjchoi86/dl_tutorials
 https://github.com/aymericdamien/TensorFlow-Examples
 https://github.com/nlintz/TensorFlow-Tutorials
 https://github.com/pkmital/tensorflow_tutorials
+https://github.com/martinwicke/tensorflow-tutorial
 
 https://github.com/napsternxg/Udacity-Deep-Learning/tree/master/udacity
 
