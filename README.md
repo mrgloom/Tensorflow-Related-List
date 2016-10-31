@@ -25,4 +25,6 @@ https://github.com/wookayin/TensorflowKR-2016-talk-debugging
 https://github.com/jorditorresBCN/FirstContactWithTensorFlow
 
 https://github.com/awjuliani/TF-Tutorials
+
+https://github.com/alrojo/tensorflow-tutorial
 ~~~
