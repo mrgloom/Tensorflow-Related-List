@@ -4,6 +4,8 @@ Tensorflow related examples, tutorials, projects list.
 
 
 ~~~
+https://github.com/golbin/TensorFlow-ML-Exercises
+
 https://github.com/jtoy/awesome-tensorflow
 
 https://github.com/sjchoi86/dl_tutorials
