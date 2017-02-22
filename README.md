@@ -29,4 +29,6 @@ https://github.com/jorditorresBCN/FirstContactWithTensorFlow
 https://github.com/awjuliani/TF-Tutorials
 
 https://github.com/alrojo/tensorflow-tutorial
+
+https://github.com/nfmcclure/tensorflow_cookbook
 ~~~
