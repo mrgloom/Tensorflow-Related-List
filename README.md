@@ -31,4 +31,6 @@ https://github.com/awjuliani/TF-Tutorials
 https://github.com/alrojo/tensorflow-tutorial
 
 https://github.com/nfmcclure/tensorflow_cookbook
+
+https://github.com/nethsix/gentle_tensorflow
 ~~~
