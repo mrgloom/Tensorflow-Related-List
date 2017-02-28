@@ -34,3 +34,8 @@ https://github.com/nfmcclure/tensorflow_cookbook
 
 https://github.com/nethsix/gentle_tensorflow
 ~~~
+
+Other:
+~~~
+https://www.youtube.com/watch?v=vq2nnJ4g6N0
+~~~
