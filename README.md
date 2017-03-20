@@ -37,6 +37,8 @@ https://github.com/nfmcclure/tensorflow_cookbook
 https://github.com/nethsix/gentle_tensorflow
 
 https://github.com/MasazI/DeepLearning_TensorFlow
+
+https://github.com/martin-gorner/tensorflow-mnist-tutorial
 ~~~
 
 Other:
