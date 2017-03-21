@@ -39,6 +39,8 @@ https://github.com/nethsix/gentle_tensorflow
 https://github.com/MasazI/DeepLearning_TensorFlow
 
 https://github.com/martin-gorner/tensorflow-mnist-tutorial
+
+https://github.com/aboustati/udacity-tensorflow
 ~~~
 
 Other:
