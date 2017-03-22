@@ -41,6 +41,8 @@ https://github.com/MasazI/DeepLearning_TensorFlow
 https://github.com/martin-gorner/tensorflow-mnist-tutorial
 
 https://github.com/aboustati/udacity-tensorflow
+
+https://github.com/blackecho/Deep-Learning-TensorFlow
 ~~~
 
 Other:
