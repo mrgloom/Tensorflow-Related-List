@@ -8,6 +8,8 @@ https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
 
 https://github.com/chiphuyen/tf-stanford-tutorials
 
+https://github.com/tensorflow/models
+
 https://github.com/golbin/TensorFlow-ML-Exercises
 
 https://github.com/jtoy/awesome-tensorflow
