@@ -49,6 +49,9 @@ https://github.com/aboustati/udacity-tensorflow
 https://github.com/blackecho/Deep-Learning-TensorFlow
 
 https://github.com/astorfi/TensorFlow-World-Resources
+
+https://github.com/luisibanez/tensorflow_tutorial
+
 ~~~
 
 Other:
