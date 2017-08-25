@@ -7,6 +7,7 @@ Tensorflow related examples, tutorials, projects list.
 https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
 
 https://github.com/chiphuyen/tf-stanford-tutorials
+https://github.com/chiphuyen/stanford-tensorflow-tutorials
 
 https://github.com/tensorflow/models
 
