@@ -57,6 +57,9 @@ https://github.com/astorfi/TensorFlow-World-Resources
 
 https://github.com/luisibanez/tensorflow_tutorial
 
+Introduction to Recurrent Networks in TensorFlow
+https://webcache.googleusercontent.com/search?q=cache:Us5E-hF_0uwJ:https://danijar.com/introduction-to-recurrent-networks-in-tensorflow/+&cd=1&hl=ru&ct=clnk&gl=ru
+
 ~~~
 
 Other:
