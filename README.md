@@ -10,6 +10,8 @@ http://web.stanford.edu/class/cs20si/lectures/
 https://github.com/chiphuyen/tf-stanford-tutorials
 https://github.com/chiphuyen/stanford-tensorflow-tutorials
 
+https://github.com/BinRoot/TensorFlow-Book
+
 https://github.com/tensorflow/models
 
 https://github.com/golbin/TensorFlow-ML-Exercises
