@@ -26,6 +26,8 @@ https://github.com/nlintz/TensorFlow-Tutorials
 
 https://github.com/pkmital/tensorflow_tutorials
 
+https://github.com/kevin28520/My-TensorFlow-tutorials
+
 https://github.com/martinwicke/tensorflow-tutorial
 
 https://github.com/napsternxg/Udacity-Deep-Learning/tree/master/udacity
