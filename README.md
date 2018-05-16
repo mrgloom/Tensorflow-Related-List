@@ -64,6 +64,8 @@ https://github.com/luisibanez/tensorflow_tutorial
 
 https://github.com/fshaikh-fast/Deep-Learning-with-Tensorflow
 
+https://github.com/tensorflow/workshops
+
 Introduction to Recurrent Networks in TensorFlow
 https://webcache.googleusercontent.com/search?q=cache:Us5E-hF_0uwJ:https://danijar.com/introduction-to-recurrent-networks-in-tensorflow/+&cd=1&hl=ru&ct=clnk&gl=ru
 
