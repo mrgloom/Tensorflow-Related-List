@@ -71,6 +71,8 @@ https://github.com/Hvass-Labs/TensorFlow-Tutorials
 Introduction to Recurrent Networks in TensorFlow
 https://webcache.googleusercontent.com/search?q=cache:Us5E-hF_0uwJ:https://danijar.com/introduction-to-recurrent-networks-in-tensorflow/+&cd=1&hl=ru&ct=clnk&gl=ru
 
+https://github.com/ageron/tf2_course
+
 ~~~
 
 Other:
