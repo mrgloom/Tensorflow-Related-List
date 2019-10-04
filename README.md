@@ -4,6 +4,8 @@ Tensorflow related examples, tutorials, projects list.
 
 
 ~~~
+https://github.com/nfmcclure/tensorflow_cookbook
+
 https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
 http://web.stanford.edu/class/cs20si/lectures/
 
@@ -45,8 +47,6 @@ https://github.com/awjuliani/TF-Tutorials
 https://github.com/aymericdamien/TensorFlow-Examples/
 
 https://github.com/alrojo/tensorflow-tutorial
-
-https://github.com/nfmcclure/tensorflow_cookbook
 
 https://github.com/nethsix/gentle_tensorflow
 
