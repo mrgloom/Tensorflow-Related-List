@@ -12,6 +12,8 @@ http://web.stanford.edu/class/cs20si/lectures/
 https://github.com/chiphuyen/tf-stanford-tutorials
 https://github.com/chiphuyen/stanford-tensorflow-tutorials
 
+https://github.com/tensorflow/examples/tree/master/courses/udacity_deep_learning
+
 https://github.com/BinRoot/TensorFlow-Book
 
 https://github.com/tensorflow/models
